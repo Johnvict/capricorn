@@ -1,0 +1,4 @@
+include:
+  - project: 'irecharge/deployer'
+    ref: main
+    file: '/ire_2_0/.gitlab-ci.yml'
